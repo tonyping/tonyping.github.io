@@ -1,17 +1,11 @@
-theme: jekyll-theme-minimal
 
 name: Tony's gh-page
-markdown: kramdown
-
-plugins:
-  - jekyll-sitemap
-
- github: [metadata]
- encoding: UTF-8
- kramdown:
-   input: GFM
-   hard_wrap: false
- future: true
- jailed: false
- theme: jekyll-theme-minimal
- gfm_quirks: paragraph_end
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+theme: jekyll-theme-minimal
+gfm_quirks: paragraph_end
