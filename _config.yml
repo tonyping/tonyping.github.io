@@ -4,3 +4,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-sitemap
+  - jekyll-include-cache
