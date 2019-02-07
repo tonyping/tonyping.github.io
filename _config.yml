@@ -2,3 +2,5 @@
 name: Tonys gh-page
 markdown: kramdown
 
+plugins:
+  - jekyll-sitemap
