@@ -1,5 +1,6 @@
 
-name: Tony's gh-page
+name: Tonys gh-page
+markdown: kramdown
 github: [metadata]
 encoding: UTF-8
 kramdown:
@@ -9,3 +10,4 @@ future: true
 jailed: false
 theme: jekyll-theme-minimal
 gfm_quirks: paragraph_end
+
