@@ -3,6 +3,7 @@
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://rubygems.org/gems/minimal-mistakes-jekyll)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftonyping%2Ftonyping.github.io.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftonyping%2Ftonyping.github.io?ref=badge_shield)
 
 [![CircleCI](https://circleci.com/gh/tonyping/tonyping.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/tonyping/tonyping.github.io/tree/master)
 
@@ -268,3 +269,6 @@ Pure Liquid Jekyll Table of Contents is distributed under the terms of the [MIT 
 Minimal Mistakes incorporates [Lunr](http://lunrjs.com),
 Copyright (c) 2018 Oliver Nightingale.
 Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftonyping%2Ftonyping.github.io.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftonyping%2Ftonyping.github.io?ref=badge_large)
