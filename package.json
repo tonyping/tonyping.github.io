@@ -32,6 +32,7 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
 
+  "scripts": {
     "build": "tonyping.site --output public"
   }
 
